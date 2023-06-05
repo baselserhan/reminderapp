@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reminderapp/static/css/main.d95c0422.css",
+    "main.js": "/reminderapp/static/js/main.fa7c0a77.js",
+    "static/media/reminders-icon.png": "/reminderapp/static/media/reminders-icon.96d8060ab157bcfd5bb7.png",
+    "index.html": "/reminderapp/index.html",
+    "main.d95c0422.css.map": "/reminderapp/static/css/main.d95c0422.css.map",
+    "main.fa7c0a77.js.map": "/reminderapp/static/js/main.fa7c0a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95c0422.css",
+    "static/js/main.fa7c0a77.js"
+  ]
+}
